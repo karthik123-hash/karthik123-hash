@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m graduated in B.E.
 - 🌱 I’m currently learning Spring framework,Django.
 - 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help with velocity*Documentation
