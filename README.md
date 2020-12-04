@@ -6,8 +6,6 @@
 
 
 - 🔭 I have  graduated in Computer Science and Engineering.
-- 🌱 I’m currently learning c#.NET
-- 👯 I’m looking to collaborate on YouTube.
-- 🤔 I’m looking for help with velocity*Documentation
+- 🌱 I’m currently learning c#.NET,React js
 - 💬 Ask me about any tech realated stuff.
 
