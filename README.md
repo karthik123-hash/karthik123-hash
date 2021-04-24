@@ -6,6 +6,5 @@
 
 
 - 🔭 I have  graduated in Computer Science and Engineering.
-- 🌱 I’m currently learning c#.NET,React js
-- 💬 Ask me about any tech realated stuff.
+- 🌱 I did online training course about  Core Java and SQL
 
