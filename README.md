@@ -6,5 +6,5 @@
 
 
 - 🔭 I have  graduated in Computer Science and Engineering.
-- 🌱 I did online training course about  Core Java and SQL
+- Techical Skill: React JS,Core Java, JavaScript,SQL
 
